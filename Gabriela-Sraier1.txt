@@ -1,0 +1,310 @@
+sudoy1 update
+sudo yum  update
+sudo yum -y install httpd
+start service
+sudo yum install httpd
+cd/etc/httpd
+cd /etc/httpd
+ls-all
+ls -all
+cd /var/www/html
+ls
+sudo yum  install nano
+nano test.html
+sudo nano test.html
+ls
+nano test.html
+sudo service http start
+sudo service httpd start
+net start -tulnp
+sudo netstat -tulup
+sudo shutdown -h now
+sudo yum install git
+git --version
+sudo yum groupinstall "Development Tools"
+sudo yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+mkd alice
+mkdr alice
+-ls mkdr alice
+-ls mkdir alice
+-ls md alice
+md alice
+mkdir alice
+mkdir bobo
+wget https://github.com/Gabriela1687/DevOps.git
+sudo yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+wget https://github.com/Gabriela1687/DevOps.git
+sudo yum groupinstall "Development Tools"
+mkdir alice
+wget https://github.com/Gabriela1687/DevOps.git
+mkdir john
+git clone https://github.com/Gabriela1687/DevOps.git
+nano test2/readme.txt
+cd../john/
+cd..jhn
+cd..john
+cd../john/
+cd.. john
+cd../john/
+..cd
+cd..
+cd ..
+cd../john
+cd../john/
+mkdir gaby 
+mkdir gaby
+cd gabriela1687/
+mkdir gaby
+git clone https://github.com/Gabriela1687/git-basics.git
+mkdir myfile1.txt.
+git add mi.txt
+git add myfile1.txt
+ls all
+-ls all
+ls -all
+cd../git-basics
+cd ..git-basics
+cd.. /git-basics
+pwd
+cd ..
+cd gabriela1687/
+cd gaby/
+cd git-basics
+cd git-basics/
+mkdir git-basics
+cd git-basics
+ls -all
+cut >myfile1.txt
+cut > myfile1.txt
+cd..
+cd gaby
+cd gaby/
+ls -all
+git commit -m 'myfile1.txt'
+git commit -m myfile1.txt
+git commit -m'myfile1.txt'
+git clone https://github.com/Gabriela1687/git-basics.git
+git commit -m'myfile1.txt'
+ls -all
+git add myfile1.txt
+nano myfile1.txt
+git add myfile1.txt
+ls -all
+ls
+cd git-basics/
+ls -al
+git add myfile1.txt
+git add .
+git add commit -m'text'
+git commit -m'text'
+git config --global user.email"gabriela1687@yahoo.com"
+git config --global user.name"Gabriela1687"
+git commit origin master
+git push origin master
+git commit' myfile1.text'
+git commit -m'text'
+git commit origin master
+git push origin master
+git commit -m'myfile1.txt'
+git push origin master
+nano 'myfile1.txt'
+git -commit a -m'myfile1.txt'
+git commit -a -m'myfile1.txt'
+git config --global user.email "gabriela1687@yahoo.com"
+git config --global user.name "gabriela1687"
+git commit -a -m'myfile1.txt'
+git add .
+git commit -a -m'myfile1.txt'
+git push origin master
+git -commit a -m"myfile1.txt'
+git -commit a -m'a.txt'
+git push origin master
+git push origin master
+pwd
+cd..
+pwd
+ls
+checkout -b<br1>
+mkdir br1
+cd br1
+cat >myfile2.txt
+ls
+nano myfile2.txt 
+git checkout br1
+git checkout -b br1
+git branch
+ls
+git add .
+git commit -m'test'
+git push origin br1
+git checkout master
+cd ..
+git merge br1
+git push origin master
+history -w ./history_gabrielasraier.txt
+ls
+git . add
+git add .
+git commit -m'history'
+git push origin master
+cd..
+# yum install -y java-1.8.0-openjdk-devel
+pwd
+cd..
+cd  ..
+pwd
+# yum install -y java-1.8.0-openjdk-devel
+cd ..
+mkdir maven
+cd .. maven/
+# yum install -y java-1.8.0-openjdk-devel
+# java -version
+# yum install -y java-1.8.0-openjdk-devel
+# java -version
+sudo yum install -y java-1.8.0-openjdk-devel
+java -version
+cd /usr/local/src/
+wget http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+cd..
+cd ..
+openjdk version "1.8.0_141"
+sudo openjdk version "1.8.0_141"
+cd .. src
+cd /usr/local/src/
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo yum install wget
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+- sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+sudo mv apache-maven-3.6.0/ apache-maven/
+cd /etc/profile.d/
+sudo nano maven.sh
+sudo chmod +x maven.sh
+source /etc/profile.d/maven.sh 
+mvn –version
+cd /etc/profile.d/
+sudo nano maven.sh
+sudo chmod +x maven.sh
+mvn –version
+cd ..
+cd..
+mkdir Maven project
+cd..
+cd ..
+mkdir Maven project
+mkdir Maven_project
+sudo mkdir Maven_project
+cd ..
+cd Maven_project
+mvn archetype:generate
+ls
+cd devops-curs/pom.xml
+ls
+pwd
+cd /home/gabriela1687/
+mkdir maven
+ls
+cd maven/
+mvn archetype:generate
+ls
+cd devops-curs
+ls
+nano pom.xml
+mvn compile
+ls -R
+mvn test
+mvn package
+java-classpath /home/gabriela1687/maven/devops-curs/target/devops-curs-1.0-SNAPSHOT.jar
+java -classpath /home/gabriela1687/maven/devops-curs/target/devops-curs-1.0-SNAPSHOT.jar
+java -classpath /home/gabriela1687/maven/devops-curs/target/devops-curs-1.0-SNAPSHOT.jar devops.curs.App
+sudo yum install unzip
+sudo unzip devops.zip
+ls
+cd..
+cd ..
+sudo unzip devops.zip
+sudo yum  unzip devops.zip
+/bin/yum/ --help
+help
+ce devops-curs
+ls
+cd devops/
+cd devops-curs
+cd src
+nano Main.java
+nano HelloWorld.java
+nano Customer.java
+cd ..
+cd..
+ls
+nano pom.xml
+mvn compile
+nano pom.xml
+mvn compile
+nano pom.xml
+ls
+mv src/Customer.java src/main/java/devops/curs/
+mv src/Customer.java src/main/java/devops/curs\ /
+mv src/Main.java src/main/java/devops/curs\ /
+mv src/HelloWorld.java src/main/java/devops/curs\ /
+ls
+mvn compile 
+mvn package shade:shade
+java -classpath target/original-devops-curs-1.0-SNAPSHOT.jar devops.curs.Main
+java -classpath target/devops-curs-1.0-SNAPSHOT.jar devops.curs.Main
+ls
+history -w ./history-maven.txt
+nano history-maven.txt 
+git push origin master
+git push origin master
+cd ..
+cd devops-curs/
+ls
+mv history-maven.txt /home/gabriela1687/git-basics/
+cd /home/gabriela1687/git-basics/
+ls
+ls -all
+git add .
+git commit -m'maven;
+git commit -m'maven'
+git push origin master
+git pull origin master
+git push origin master
+sudo shutdown -h now
+mkdir jenkins
+cd jenkins/
+wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+java -jar jenkins.war
+sudo firewall-cmd --permanent --zone=public --add-port=8080/tcp
+sudo firewall-cmd –reload
+java -jar jenkins.war
+cd ..
+ls -ltr
+cd gabriela1687
+ls
+cd Gabriela-Sraier
+ls
+sudo nano dockerfile
+sudo docker service start
+sudo service docker  start
+ls
+sudo docker build -t Gabriela1687/Gabriela-Sraier:1 .
+sudo docker build -t gabriela1687/gabriela-sraier:1 .
+sudo docker run -d --name t1 -p 80:8080 gabriela1687/gabriela-sraier:1
+sudo docker run -d --name t2 -p 81:8080 gabriela1687/gabriela-sraier:1
+sudo docker ps
+history -w /Gabriela-Sraier.txt
+ls
+cd ..
+ls
+cd SampleWebApplication
+ ls -ltr
+history -w./Gabriela-Sraier.txt
+history -w./Gabriela-Sraier1.txt
+history -w ./Gabriela-Sraier1.txt
